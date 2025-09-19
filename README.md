@@ -3,16 +3,18 @@
 <p align="center">
  <img alt="Firefox screenshot running Modern Modoki" src="https://i.imgur.com/BSqDK1r.png"/>
 </p>
+This project is made to replicate the original Firefox theme that came out in 2004. It is fully compatible with the latest version of Firefox (version 143 as of making this)
 
+And it works best with the wintc theme for XFCE.
 
-> [!IMPORTANT]  
-> In **Firefox 133** and above, there were significant changes to the layout. If you are using a Firefox version lower than this, then install **version 0.9**.
+Credits to soup-bowl for a large chunk of this readme file, as most bugs/features apply here :)
+
 
  ℹ️ If you want compact density, set `browser.compactmode.show` to `true`.
 
 ## 🐞 Bugs & Limitations
 
-* MacOS is **not supported**. **Linux** and **Windows** is supported.
+* MacOS has not been tested. **Linux** and **Windows** is supported. (
   * This theme is primarily tested on **XFCE**. Other setups may encounter bugs.
 * This theme is **not compatible** with Firefox skins/themes, or a combined title bar.
 * Dark mode is not currently supported.
@@ -21,7 +23,7 @@
 * The menu bar is expected to be visible. The bookmarks bar is optional.
 * There is some alignment issues with the URL bar, as Firefox keeps making changes to the layout (#32).
 * Due to the current reliance on low-res button images, this theme will look incredibly blurry on screen densities above 1080p.
-* Like the original Modern Modoki, not all icons are covered - especially not extensions.
+* Not all icons are covered - especially not extensions.
 
 **If you experience graphical oddities please submit a bug report with screenshots + OS version.**
 
