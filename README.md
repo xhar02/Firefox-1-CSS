@@ -1,14 +1,9 @@
 <h1 align="center">Firefox 1 modern</h1>
 
 <p align="center">
- <img alt="Firefox screenshot running Modern Modoki" src="https://ibb.co/6c1bchJR" />
+ <img alt="Firefox screenshot running Modern Modoki" src="https://i.imgur.com/BSqDK1r.png"/>
 </p>
 
-This project aims to bring the Modern Modoki (or close in appearance) theme back to Firefox using the amazing Redmond Firefox theme base, via Firefox's remaining UserChrome interface.
-
-If you're using Pale Moon browser, Use **[Modoki Moon][mmm]** instead of this - a full fork of the original.
-
-This theme pairs beautifully with the **[Chicago95 theme for XFCE][c95]**.
 
 > [!IMPORTANT]  
 > In **Firefox 133** and above, there were significant changes to the layout. If you are using a Firefox version lower than this, then install **version 0.9**.
