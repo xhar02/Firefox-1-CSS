@@ -1,7 +1,7 @@
-<h1 align="center">Modern Modoki</h1>
+<h1 align="center">Firefox 1 modern</h1>
 
 <p align="center">
- <img alt="Firefox screenshot running Modern Modoki" src="https://user-images.githubusercontent.com/11209477/192164979-31f7c725-87c4-4513-aaed-d2c52a17a9b6.png" />
+ <img alt="Firefox screenshot running Modern Modoki" src="https://drive.google.com/file/d/1DMAXqo0LbBiwqNZDGfDY5ttAEgJZyifn/view?usp=sharing" />
 </p>
 
 This project aims to bring the Modern Modoki (or close in appearance) theme back to Firefox using the amazing Redmond Firefox theme base, via Firefox's remaining UserChrome interface.
